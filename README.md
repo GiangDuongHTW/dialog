@@ -7,3 +7,4 @@
 "# dialog" 
 "# dialog" 
 "# dialog" 
+create dialog, modify text from input in a dialog
